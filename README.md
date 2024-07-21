@@ -43,23 +43,23 @@
    <img src='./kam/im5.png' height="80%" width="80%" alt="Disk Sanitization Steps">
   
 
- 
+   <h2>step3</h2>
+   Create a secret for kubernetes cluster with the secret token<br/>
+   copy the content of the the (.docker/config.json) file in minikube to the host (.docker/config.json) dir
+   minikube cp minikube:/home/docker/.docker/config.json ~/.docker/config.json
 
-<h2>step3</h2>
-
-
-  
- <img src='./sp/kimage8.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   create a secret with the access token in base64 encoded
+   <img src='./kam/im6.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   
 
  <h2>step4</h2>
+ Create a deployment for the application to pull the image from the registry using the secret created in minikube<br/>
+ <img src='./kam/im7.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
 
 
   
- <img src='./sp/kimage10.png' height="80%" width="80%" alt="Disk Sanitization Steps">
-
- <h2>step5</h2>
-
+ 
 
    
     
