@@ -18,7 +18,8 @@
    create a private docker registry in AWS (AWS Elastic Container Registry)<br/>
       
    <img src='./kam/im1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
-   
+
+   private registry is created in AWS
    <img src='./kam/im2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
    build the application into docker image and push to the registry<br/>
