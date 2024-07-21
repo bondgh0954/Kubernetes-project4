@@ -26,6 +26,7 @@
    docker tag java-web-app:1.0 975050175231.dkr.ecr.eu-central-1.amazonaws.com/java-web-app:1.0
    docker push 975050175231.dkr.ecr.eu-central-1.amazonaws.com/java-web-app:1.0
    
+   java-web-application with the tag 1.0 has successfully been push to the registry
    <img src='./kam/im3.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
 
