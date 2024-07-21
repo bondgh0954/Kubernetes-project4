@@ -22,6 +22,9 @@
    private registry is created in AWS
    <img src='./kam/im2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
+
+   
+
    build the application into docker image and push to the registry<br/>
    docker build -t java-web-app:1.0 .
    docker tag java-web-app:1.0 975050175231.dkr.ecr.eu-central-1.amazonaws.com/java-web-app:1.0
