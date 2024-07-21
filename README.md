@@ -56,6 +56,9 @@
  Create a deployment for the application to pull the image from the registry using the secret created in minikube<br/>
  <img src='./kam/im7.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
+  <img src='./kam/im8.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./kam/im9.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
 
 
   
