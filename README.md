@@ -4,7 +4,7 @@
 - <b>Kubernetes</b> 
 - <b>Helm</b>
 - <b>AWS ECR</b>
-- <b>Docker/b>
+- <b>Docker</b>
 
 
 
